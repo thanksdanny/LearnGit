@@ -7,3 +7,5 @@ git tracks changes of files.
 Create a new branch is quick
 
 get a new branch named dev
+
+change the branch to master and edit the master and commit
